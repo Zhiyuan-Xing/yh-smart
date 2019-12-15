@@ -5,3 +5,7 @@
   netcard针对多网卡的PC机，选择网卡用
   rediscfg为对redis的配置
     其中ip为redis的地址，port为redis服务使用的端口号
+
+启动方式：
+命令行输入  node app.js + 服务端口
+例如 node app.js 1884
